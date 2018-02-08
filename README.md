@@ -5,3 +5,4 @@ All of the examples are based on Zetcode GTK+ tutorial ([http://zetcode.com/gui/
 
 Added examples:
     - [Example 1.1](https://github.com/pattisahusiwa/xojo-libgtk2-tutorial/tree/master/example-1.1): Simple window
+    - [Example 1.2](https://github.com/pattisahusiwa/xojo-libgtk2-tutorial/tree/master/example-1.2): Centering the window
