@@ -8,3 +8,4 @@ Added examples:
 * [Example 1.2](https://github.com/pattisahusiwa/xojo-libgtk2-tutorial/tree/master/example-1.2): Centering the window
 * [Example 1.3](https://github.com/pattisahusiwa/xojo-libgtk2-tutorial/tree/master/example-1.3): The application icon
 * [Example 1.4](https://github.com/pattisahusiwa/xojo-libgtk2-tutorial/tree/master/example-1.4): Tooltip
+* [Example 1.5](https://github.com/pattisahusiwa/xojo-libgtk2-tutorial/tree/master/example-1.5): Mnemonic
