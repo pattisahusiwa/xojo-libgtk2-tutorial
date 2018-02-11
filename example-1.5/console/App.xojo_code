@@ -9,7 +9,7 @@ Inherits ConsoleApplication
 		  gtk_init(argc, argv)
 		  
 		  dim window as Ptr = gtk_window_new(GTK_WINDOW_TOPLEVEL)
-		  gtk_window_set_title(window, "Tooltip")
+		  gtk_window_set_title(window, "Mnemonic")
 		  
 		  // mimick Xojo default window size, 600x400
 		  gtk_window_set_default_size(window, 600, 400)
@@ -39,6 +39,9 @@ Inherits ConsoleApplication
 
 	#tag Method, Flags = &h21
 		Private Sub print_msg(widget as Ptr, window as Ptr)
+		  #Pragma Unused widget
+		  #Pragma Unused window
+		  
 		  Print "Button clicked"
 		End Sub
 	#tag EndMethod

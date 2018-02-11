@@ -3,7 +3,11 @@
 This repository is intended to serve as a tutorial on how to use [xojo-libgtk2](https://github.com/pattisahusiwa/xojo-libgtk2).
 All of the examples are based on Zetcode GTK+ tutorial ([http://zetcode.com/gui/gtk2/](http://zetcode.com/gui/gtk2/)).
 
-Several examples have issue on DebugBuild mode. Compile the example to see the actual result.
+Every examples are provided in console and desktop version.
+Started with example 1.4, console version has issue on debug build.
+Please compile it to see the actual result.
+
+Console examples can be executed in all Xojo version, while desktop examples in xojo < 2017r2 only.
 
 Added examples:
 * First programs
