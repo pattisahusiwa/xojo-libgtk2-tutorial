@@ -19,3 +19,4 @@ Added examples:
 * Menus and toolbars
     * [Example 2.1](https://github.com/pattisahusiwa/xojo-libgtk2-tutorial/tree/master/example-2.1): Simple menu
     * [Example 2.2](https://github.com/pattisahusiwa/xojo-libgtk2-tutorial/tree/master/example-2.2): Submenu
+    * [Example 2.3](https://github.com/pattisahusiwa/xojo-libgtk2-tutorial/tree/master/example-2.3): Image menus, mnemonics & accelerators
